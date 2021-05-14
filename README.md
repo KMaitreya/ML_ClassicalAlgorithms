@@ -5,3 +5,6 @@ This program will predict the class of a car by using the k-nearest neighbour cl
 
 2)sklearn-2 (flower classification):
 In this classification program the model used is support vector machine(SVM). The dataset has been imported from the sklearn library and 80% of the dataset is used as the training set and the rest has been used as the tes set. Accuracy is in the late 90s.
+
+3)sklearn-3 (boston house price classification):
+The classification program used is linear regression.The dataset has been imported from the sklearn library and 80% of the dataset is used as the training set and the rest has been used as the tes set.The score is in the 70s. Coefficients and intercepts have been calculated as well.
